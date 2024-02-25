@@ -1,0 +1,19 @@
+.container3 .top3 .top33{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: -247px;
+    left: -348px;
+    font-size: 25px;
+    margin: 2px -76px;
+    padding: 2px 200px;
+}
+.head{
+    font-size: 35px;
+    margin: 2px  2px;
+    padding: 2px 2px;
+    position: relative;
+top:-273px;
+left:534px    
+}
